@@ -1,0 +1,13 @@
+.descargas{
+	margin: 5px auto;
+}
+
+.lista{
+	list-style: none;
+	overflow: hidden;
+	text-decoration: none;
+}
+.lista li{
+	float: left;
+	padding: 0px 10px;
+}
